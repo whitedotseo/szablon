@@ -1,0 +1,2 @@
+# szablon
+GitHub Pages
